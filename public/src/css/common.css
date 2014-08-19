@@ -181,7 +181,7 @@ margin-left: 0;
 }
 
 .navbar-form .form-control {
-  background-color: #7CAD23;
+  background-color: #000;
   border-radius: 3px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -216,7 +216,7 @@ margin-left: 0;
 }
 
 #search::-webkit-input-placeholder {
-  color: #E8D0B0;
+  color: #ccc;
   font-family: 'Ubuntu', sans-serif;
   font-size: 14px;
   font-style: italic;
@@ -224,7 +224,7 @@ margin-left: 0;
 }
 
 #search::-moz-placeholder {
-  color: #E8D0B0;
+  color: #ccc;
   font-family: 'Ubuntu', sans-serif;
   font-size: 14px;
   font-weight: 100;
